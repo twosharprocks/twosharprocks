@@ -1,4 +1,5 @@
 ### Hi there, I'm Josh Richards 👋
+![1500x500](https://github.com/twosharprocks/twosharprocks/assets/116070770/374030c2-3239-46ac-91bd-9e21aac9f137)
 
 - 🔭 I’m currently working on: 
 [Cavedb.net](https://cavedb.net/) - A global online database of cave and karst information to support exploration cave divers & speleological research
